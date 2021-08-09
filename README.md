@@ -4,14 +4,14 @@ This is a sample Java / Maven / Spring Boot (version 2.5.3) application that can
 
 ## How to Run 
 
-This application is packaged as a jar.
+This application is packaged as a war.
 
 * Clone this repository 
 * Make sure you are using JDK 1.8 and Maven 3.x
 * You can build the project and run the tests by running ```mvn clean package```
 * Once successfully built, you can run the service by one of these two methods:
 ```
-        java -jar target/spring-boot-example-1.0.0.jar
+        java -jar target/spring-boot-example-1.0.0.war
 or
         mvn spring-boot:run
 ```
