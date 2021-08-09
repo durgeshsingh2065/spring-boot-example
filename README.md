@@ -30,7 +30,7 @@ Once the application runs you should see something like this
 The service is just a simple rest call to get all employee.
 ```com.durgesh.api.EmpoyeeController``` on **port 8090**. (see below)
 
-Here a simple endpoints you can call:
+Here a simple endpoint you can call:
 
 ### Get all employee information.
 
